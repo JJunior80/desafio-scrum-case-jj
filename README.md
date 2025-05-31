@@ -1,6 +1,9 @@
 # desafio-scrum-case-jj
+
 📝 Resenha Crítica – Case de Sucesso da Intel com Scrum
+
 📌 Introdução
+
 A busca por inovação, velocidade e adaptação às mudanças levou grandes empresas a adotarem métodos ágeis. A Intel, gigante do setor de tecnologia, representa um exemplo emblemático de como o Scrum pode transformar processos e impulsionar resultados. Neste trabalho, analisaremos criticamente a adoção do Scrum na Intel, seus motivos, impactos e aprendizados.
 
 💡 Por que a abordagem ágil foi utilizada e não a tradicional?
